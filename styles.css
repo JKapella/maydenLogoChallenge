@@ -1,0 +1,320 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    letter-spacing: -6px;
+    font-size: 60px;
+}
+
+h1  {
+    color: #B1B1B1;
+    float: left;
+    margin-right: 50px;
+
+}
+
+h2  {
+    display: block;
+}
+
+.logoContainer {
+    width: 354px;
+    height: 354px;
+    margin: 0 auto 80px auto;
+    overflow: hidden;
+    border-radius: 50%;
+    position: relative;
+    float: left;
+}
+
+.greenSegment {
+    width: 0;
+    height: 0;
+    border-top: 309px solid #94BA66;
+    border-right: 143px solid transparent;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.greenSegmentSmall {
+    width: 60px;
+    height: 30px;
+    background-color: #94BA66;
+    position: absolute;
+    top: 0;
+    left: 120px;
+}
+
+.whiteCircle {
+    height: 100px;
+    width: 100px;
+    background-color: #FFFFFF;
+    border-radius: 50%;
+    position: absolute;
+    top: 0;
+    left: 125px;
+}
+
+.lightBlueSegment {
+    width: 0;
+    height: 0;
+    border-top: 309px solid #288FB0;
+    border-left: 143px solid transparent;
+    position: absolute;
+    top: 0;
+    left: 211px;
+}
+
+.darkBlueSegment {
+    border-bottom: 141px solid #295074;
+    border-left: 50px solid transparent;
+    border-right: 50px solid transparent;
+    height: 0;
+    width: 141px;
+    position: absolute;
+    top: 273px;
+    left: 57px;
+}
+
+.orangeSegment {
+    width: 0;
+    height: 0;
+    border-left: 43px solid transparent;
+    border-right: 43px solid transparent;
+    border-bottom: 104px solid #F27324;
+    position: absolute;
+    top: 103px;
+    left: 134px;
+}
+
+.whiteBoxM0 {
+     width: 20px;
+     height: 20px;
+     position: absolute;
+     background-color: #FFFFFF;
+     top: 135px;
+     left: 14px;
+ }
+
+.greyBoxM0 {
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    background-color: #B1B1B1;
+    border-radius: 50% 0 0 0;
+    top: 135px;
+    left: 14px;
+}
+
+.greyBoxM01 {
+    width: 20px;
+    height: 65px;
+    position: absolute;
+    background-color: #B1B1B1;
+    top: 155px;
+    left: 14px;
+}
+
+.whiteBoxD0 {
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    background-color: #FFFFFF;
+    top: 112px;
+    left: 312px;
+}
+
+.greyBoxD1 {
+    width: 22px;
+    height: 20px;
+    position: absolute;
+    background-color: #B1B1B1;
+    border-radius: 0 50% 0 0;
+    top: 114px;
+    left: 310px;
+}
+
+.greyBoxD2 {
+    width: 22px;
+    height: 85px;
+    position: absolute;
+    background-color: #B1B1B1;
+    top: 134px;
+    left: 310px;
+}
+
+.whiteBoxN {
+    width: 22px;
+    height: 20px;
+    position: absolute;
+    background-color: #FFFFFF;
+    top: 200px;
+    left: 454px;
+}
+
+.greyBoxN {
+    width: 22px;
+    height: 20px;
+    position: absolute;
+    background-color: #B1B1B1;
+    top: 200px;
+    left: 454px;
+    border-radius: 0 0 0 50%;
+}
+
+.greyBoxN2 {
+    width: 22px;
+    height: 20px;
+    position: absolute;
+    background-color: #B1B1B1;
+    top: 180px;
+    left: 454px;
+}
+
+
+
+.whiteBoxD2 {
+    width: 21px;
+    height: 20px;
+    position: absolute;
+    background-color: #FFFFFF;
+    top: 112px;
+    left: 772px;
+}
+
+.greyBoxD3 {
+    width: 21px;
+    height: 20px;
+    position: absolute;
+    background-color: #B1B1B1;
+    border-radius: 0 50% 0 0;
+    top: 114px;
+    left: 772px;
+}
+
+.greyBoxD4 {
+    width: 21px;
+    height: 85px;
+    position: absolute;
+    background-color: #B1B1B1;
+    top: 134px;
+    left: 772px;
+}
+
+.whiteBoxM {
+    width: 22px;
+    height: 20px;
+    position: absolute;
+    background-color: #FFFFFF;
+    top: 200px;
+    left: 915px;
+}
+
+.greyBoxM {
+    width: 22px;
+    height: 20px;
+    position: absolute;
+    background-color: #B1B1B1;
+    top: 200px;
+    left: 915px;
+    border-radius: 0 0 0 50%;
+}
+
+.greyBoxM2 {
+    width: 22px;
+    height: 20px;
+    position: absolute;
+    background-color: #B1B1B1;
+    top: 180px;
+    left: 915px;
+}
+
+.whiteBoxM2 {
+    width: 22px;
+    height: 20px;
+    position: absolute;
+    background-color: #FFFFFF;
+    top: 200px;
+    left: 961px;
+}
+
+.greyBoxM3 {
+    width: 22px;
+    height: 20px;
+    position: absolute;
+    background-color: #B1B1B1;
+    top: 200px;
+    left: 961px;
+    border-radius: 0 0 0 50%;
+}
+
+.greyBoxM4 {
+    width: 22px;
+    height: 20px;
+    position: absolute;
+    background-color: #B1B1B1;
+    top: 180px;
+    left: 961px;
+}
+
+
+.whiteBoxA {
+    width: 15px;
+    height: 10px;
+    position: absolute;
+    background-color: #FFFFFF;
+    top: 135px;
+    left: 522px;
+}
+
+.greyBoxA {
+    height: 25px;
+    width: 25px;
+    border-radius: 50%;
+    position: absolute;
+    background-color: #B1B1B1;
+    top: 135px;
+    left: 522px;
+}
+
+.whiteTrapC {
+    border-bottom: 15px solid transparent;
+    border-top: 15px solid transparent;
+    border-right: 24px solid white;
+    height: 21px;
+    width: 0px;
+    position: absolute;
+    top: 161px;
+    left: 622px;
+}
+
+/*STUFF FOR THE SECOND LOGO*/
+
+.container {
+    width: 354px;
+    height: 354px;
+    margin: 0 auto 0 100px;
+    overflow: hidden;
+    border-radius: 50%;
+}
+
+svg	{
+    width: 354px;
+    height: 354px;
+}
+.white {
+    fill: #FFFFFF;
+}
+.green {
+    fill: #94BA66;
+}
+.lightBlue {
+    fill: #288FB0;
+}
+.darkBlue {
+    fill: #295074;
+}
+.orange {
+    fill: #F27324;
+}
+
+
